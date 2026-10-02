@@ -1,8 +1,5 @@
 # LeetCode Solutions
-
 **Student:** Kishan C.  
-**Roll number:** Not provided
-
 ## Activity Description
 
 This repository contains beginner-friendly C solutions for eight selected LeetCode problems as part of a second-year programming activity. Each problem folder includes a standalone source file with local tests and a short explanation of the approach.
